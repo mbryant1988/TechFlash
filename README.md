@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To Do List
 
-Things you may want to cover:
+* Create Front End Design/Theme
 
-* Ruby version
+* Create Admin Section
 
-* System dependencies
+* Setup Payment System
 
-* Configuration
+* Create Backend Models for Services
 
-* Database creation
+* Install and Configure Gems(Devise,ActiveAdmin,Bootstrap,Papertrail,etc...)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Create Functioning Contact Feature
